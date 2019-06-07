@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"magi",
+				"margin-top\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"e",
+				"E67816"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"s",
+				"space-around\tjustify-content"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"block",
+				"block\tdisplay"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"flex",
+				"flex-end\tjustify-content"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"list",
+				"list-style-image\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"main-slide-im",
+				"main-slide-imgs"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"main",
+				"main-img"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"A",
+				"Atividades"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"conta",
+				"containerAgencia"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"font-e",
+				"font-kerning\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"r",
+				"rgba()\tcolor"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"b",
+				"block\tdisplay"
+			],
+			[
+				"row",
+				"row\tflex-direction"
+			],
+			[
+				"spac",
+				"space-around\tjustify-content"
+			],
+			[
+				"sp",
+				"space-between\talign-content"
+			],
+			[
+				"hed",
+				"header\tTag"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"flex-r",
+				"flex-direction\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"space",
+				"space-around\tjustify-content"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"bos",
+				"box-sizing\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"D",
+				"display\tproperty"
+			],
+			[
+				"jpg",
+				"jpg"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"bra",
+				"brabo"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"txt",
+				"text-align\tproperty"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"W",
+				"width\tproperty"
+			],
+			[
+				"t",
+				"Thiago"
+			],
+			[
+				"ha",
+				"header\tTag"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"n",
+				"Negro"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"sect",
+				"section\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vai-na-web-03/Documentos/Projeto-PROA/style.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-PROA/Projeto-PROA/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-PROA/Projeto-PROA/style.css",
+		"/home/vai-na-web-03/Documentos/reciclacao/style.css",
+		"/home/vai-na-web-03/Documentos/reciclacao/vocesabe-saude.html",
+		"/home/vai-na-web-03/Documentos/reciclacao/vocesabe-meioambiente.html",
+		"/home/vai-na-web-03/Documentos/reciclacao/vocesabe-consumoconsciente.html",
+		"/home/vai-na-web-03/Documentos/QuickCash/style.css",
+		"/home/vai-na-web-03/Documentos/QuickCash/index.html",
+		"/home/vai-na-web-03/Downloads/QuickCash-master/js/menu-mobile.js",
+		"/home/vai-na-web-03/Downloads/QuickCashh/style.css",
+		"/home/vai-na-web-03/Downloads/QuickCashh/index.html",
+		"/home/vai-na-web-03/Downloads/QuickCash-master/css/style.css",
+		"/home/vai-na-web-03/Downloads/QuickCash-master/index.html",
+		"/home/vai-na-web-03/Downloads/QuickCash-master/ourProducts.html",
+		"/home/vai-na-web-03/Imagens/Quickcash/style.css",
+		"/home/vai-na-web-03/Imagens/Quickcash/index.html",
+		"/home/vai-na-web-03/Documentos/Projeto-Quickcash/style.css",
+		"/home/vai-na-web-03/Documentos/Projeto-Quickcash/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-PROA/style.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-PROA/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./style.css",
+		"/home/vai-na-web-03/Documentos/YasminR./index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Proa/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Criancas-Felizes/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Criancas-Felizes/style.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Criancas-felizes/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Criancas-felizes/style.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Criancas-felizes/ras.css",
+		"/home/vai-na-web-03/Documentos/reciclacao/index.html",
+		"/home/vai-na-web-03/Documentos/reciclacao/sobre.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Criancas-Felizes/Rascunho.css",
+		"/home/vai-na-web-03/Documentos/trabalho_final_oca_dos_curumins/style.css",
+		"/home/vai-na-web-03/Documentos/trabalho_final_oca_dos_curumins/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Main/ras.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Main/ras.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Projeto-Criancas-Felizes/index.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/rascunho.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Projeto-Criancas-Felizes/ras.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Projeto-Criancas-Felizes/ras.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Projeto-Criancas-Felizes/rascunho.css",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Projeto-Criancas-Felizes/Rascunho.html",
+		"/home/vai-na-web-03/Documentos/YasminR./Projeto-Criancas-Felizes/Nova pasta/Projeto-Criancas-Felizes/style.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Projeto-Criancas-Felizes/index.html",
+		"/home/vai-na-web-03/Documentos/Yasmin/Projeto-Criancas-Felizes/style.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Projeto-Criancas-Felizes/rascunho.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Projeto-Criancas-Felizes/Rascunho.html",
+		"/home/vai-na-web-03/Documentos/Yasmin/Nova pasta/Trabalho-Final/Main/index.html",
+		"/home/vai-na-web-03/Documentos/Yasmin/Nova pasta/Trabalho-Final/Main/style.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Nova pasta/Trabalho-Final/Main/Rascunho.html",
+		"/home/vai-na-web-03/Documentos/Yasmin/Nova pasta/Trabalho-Final/Main/rascunho.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Nova pasta/Trabalho-Final/Yasmin/Main/style.css",
+		"/home/vai-na-web-03/Downloads/trabalho_final_oca_dos_curumins-master/style.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Nova pasta/Footer- Dandara/index.html",
+		"/home/vai-na-web-03/Documentos/Yasmin/Main/style.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Main/index.html",
+		"/home/vai-na-web-03/Documentos/projeto-for-love/index.html",
+		"/home/vai-na-web-03/Documentos/projeto-for-love/style.css",
+		"/home/vai-na-web-03/Documentos/Projeto-Criancas-Felizes/index.html",
+		"/home/vai-na-web-03/Documentos/Projeto-Criancas-Felizes/style.css",
+		"/home/vai-na-web-03/Downloads/trabalho_final_oca_dos_curumins-master/index.html",
+		"/home/vai-na-web-03/Documentos/douglas/monstro.css",
+		"/home/vai-na-web-03/.cache/.fr-9K5ntv/trabalho_final_oca_dos_curumins-master/index.html",
+		"/home/vai-na-web-03/Downloads/trabalho_final_oca_dos_curumins-master (2)/trabalho_final_oca_dos_curumins-master/style.css",
+		"/home/vai-na-web-03/Downloads/trabalho_final_oca_dos_curumins-master (2)/trabalho_final_oca_dos_curumins-master/index.html",
+		"/home/vai-na-web-03/Downloads/desafio final finalizando-20190506T130626Z-001/desafio final finalizando/style.css",
+		"/home/vai-na-web-03/Downloads/desafio final finalizando-20190506T130626Z-001/desafio final finalizando/index.html",
+		"/home/vai-na-web-03/Documentos/projeto-final-vinicius/index.html",
+		"/home/vai-na-web-03/Documentos/projeto-final-vinicius/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/home/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/home/css/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/QuickCash/css/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/QuickCash/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/sobre/index.html",
+		"/home/vai-na-web-03/Documentos/projeto-for-love/responsivo.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Projeto Final2/style.css",
+		"/home/vai-na-web-03/Documentos/Yasmin/Projeto Final2/index.html",
+		"/home/vai-na-web-03/.cache/.fr-zHSm7x/desafio final finalizando/style.css",
+		"/home/vai-na-web-03/Documentos/desafio final finalizando/style.css",
+		"/home/vai-na-web-03/Documentos/desafio final finalizando/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/index.html",
+		"/style.css",
+		"/index.html",
+		"/home/vai-na-web-03/Downloads/Trabalho _Final-Oca_dos_Curumins-20190502T124148Z-001/Trabalho _Final-Oca_dos_Curumins/style.css",
+		"/home/vai-na-web-03/Downloads/Trabalho _Final-Oca_dos_Curumins-20190502T124148Z-001/Trabalho _Final-Oca_dos_Curumins/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/melhorestimes.css",
+		"/home/vai-na-web-03/Documentos/Maiara/melhorestimes.html",
+		"/home/vai-na-web-03/Documentos/Lucas/style.css",
+		"/home/vai-na-web-03/Documentos/Lucas/index.html",
+		"/home/vai-na-web-03/Documentos/desafio compras cl/style.css",
+		"/home/vai-na-web-03/Documentos/desafio compras cl/index.html",
+		"/home/vai-na-web-03/Documentos/desafio-compras/style.css",
+		"/home/vai-na-web-03/Documentos/desafio-compras/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/Meu-perfil-master/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/Meu-perfil-master/index.html",
+		"/home/vai-na-web-03/Downloads/desafio-compras/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/desafio-vendas-responsivo/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/desafio-vendas-responsivo/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/dois monstros/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/dois monstros/index.html",
+		"/home/vai-na-web-03/Documentos/Vinicius/index.html",
+		"/home/vai-na-web-03/Documentos/Vinicius/style.css",
+		"/home/vai-na-web-03/Documentos/style.css",
+		"/home/vai-na-web-03/Documentos/yasmin/Monstro/style.css",
+		"/home/vai-na-web-03/Documentos/yasmin/Monstro/index.html",
+		"/home/vai-na-web-03/Downloads/Yasmin/Perfil Pessoal/index.html",
+		"/home/vai-na-web-03/Downloads/Yasmin/Perfil Pessoal/style.css",
+		"/home/vai-na-web-03/Downloads/Yasmin/Perfil Pessoal/Stylee.css",
+		"/home/vai-na-web-03/Downloads/Yasmin/Perfil Pessoal/Perfil.html",
+		"/home/vai-na-web-03/Downloads/Yasmin/Formulário/style.css",
+		"/home/vai-na-web-03/Downloads/Yasmin/Formulário/index.html",
+		"/home/vai-na-web-03/Downloads/Yasmin/Formulário/style1.css",
+		"/home/vai-na-web-03/Downloads/Yasmin/Formulário/formulario.html",
+		"/home/vai-na-web-03/Documentos/dandara-maiara/Meu-perfil-master/index.html",
+		"/home/vai-na-web-03/Documentos/dandara-maiara/Meu-perfil-master/style.css",
+		"/home/vai-na-web-03/Documentos/Maiara/formulario/index.html",
+		"/home/vai-na-web-03/Documentos/Maiara/formulario/style.css",
+		"/home/vai-na-web-03/Downloads/minha-pagina-20190410T143752Z-001/minha-pagina/style.css",
+		"/home/vai-na-web-03/Downloads/minha-pagina-20190410T143752Z-001/minha-pagina/index.html",
+		"/home/vai-na-web-03/Documentos/caio/perfil02.css",
+		"/home/vai-na-web-03/Documentos/caio/perfil2.html",
+		"/home/vai-na-web-03/Documentos/Caio/perfil02.css",
+		"/home/vai-na-web-03/Downloads/desafio-form-20190409T143114Z-001/desafio-form/estilo2.css",
+		"/home/vai-na-web-03/Downloads/desafio-form-20190409T143114Z-001/desafio-form/login2.html",
+		"/home/vai-na-web-03/Downloads/desafio-form-20190409T143114Z-001/desafio-form/style1.css",
+		"/home/vai-na-web-03/Downloads/desafio-form-20190409T143114Z-001/desafio-form/index1.html",
+		"/home/vai-na-web-03/Downloads/desafio-form-20190409T135806Z-001/desafio-form/estilo2.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"50vh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "phaser.min.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
